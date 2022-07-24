@@ -5,7 +5,8 @@ django-environ==0.9.0
 pandas==1.4.3
 numpy==1.23.0
 openpyxl==3.0.10
-psycopg2-binary==2.8.6
+
 Pillow==9.2.0
 django-smuggler==1.0.4
 environ==1.0
+djangorestframework-simplejwt==5.2.0
